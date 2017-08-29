@@ -1,0 +1,11 @@
+{
+  "name": "train",
+  "version": "1.0.0",
+  "description": "Interface and controller for model railway",
+  "main": "src/app/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fela Maslen",
+  "license": "MIT"
+}
